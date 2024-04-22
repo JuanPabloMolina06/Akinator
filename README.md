@@ -1,0 +1,2 @@
+# Akinator
+Akinator de animais
